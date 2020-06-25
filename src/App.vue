@@ -13,8 +13,8 @@
               <h2 class="mb-8">{{currentCountry["name"]}}</h2>
               <v-text-field style="max-width: 250px;" label="Guess" v-model="guess"></v-text-field>
               <v-btn color="primary" @click="submitGuess">Submit answer</v-btn>
-              <p>{{previousAnswerMessage}}</p>
-              <h3 class="mt-8">Current score:</h3>
+              <p class="my-2">{{previousAnswerMessage}}</p>
+              <h3 class="mt-6">Current score:</h3>
               <p>{{score}} / {{attempts}}</p>
             </v-card-text>
           </v-card>
