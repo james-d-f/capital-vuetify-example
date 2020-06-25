@@ -1,5 +1,7 @@
 # capital
 
+![Structure Diagram](</example.png>)
+
 ## Project setup
 ```
 npm install
