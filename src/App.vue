@@ -5,7 +5,7 @@
     <v-content>
       <v-container class="fill-height" fluid>
         <v-row align="center" justify="center">
-          <v-card class="ma-5 pa-5 rounded-xl" style="max-width: 450px;">
+          <v-card class="ma-5 pa-5 rounded-xl" style="max-width: 550px;">
             <v-card-title class="mb-8">
               <h1>What's the capital?</h1>
             </v-card-title>
